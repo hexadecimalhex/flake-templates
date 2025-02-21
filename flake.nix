@@ -9,6 +9,10 @@
         path = ./templates/gleam;
         description = "a Gleam template.";
       };
+      deno = {
+        path = ./templates/deno;
+        description = "a Deno template.";
+      };
     };
   };
 }
